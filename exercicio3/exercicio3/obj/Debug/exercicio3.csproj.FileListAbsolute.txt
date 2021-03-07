@@ -1,0 +1,10 @@
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\bin\Debug\exercicio3.exe.config
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\bin\Debug\exercicio3.exe
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\bin\Debug\exercicio3.pdb
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\obj\Debug\exercicio3.csprojAssemblyReference.cache
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\obj\Debug\exercicio3.Form1.resources
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\obj\Debug\exercicio3.Properties.Resources.resources
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\obj\Debug\exercicio3.csproj.GenerateResource.cache
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\obj\Debug\exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\obj\Debug\exercicio3.exe
+C:\Users\patri\Desktop\3 semestre facul\Leandro\trabalhos\aula02\Exercicio3\exercicio3\exercicio3\obj\Debug\exercicio3.pdb
